@@ -22,7 +22,6 @@ Este proyecto demuestra la implementación de capacidades nativas en la web:
 
 ## 🧠 Desafíos Técnicos y Aprendizajes
 
-> *Consejo: Esta sección es oro para las entrevistas.*
 
 1.  **Ciclo de vida del Service Worker:** Aprendí a manejar la caché de archivos estáticos para que la app cargue instantáneamente incluso sin red.
 2.  **Optimización de Assets:** Configuración de iconos y meta-tags para cumplir con los estándares de instalación de PWA (Lighthouse audit).
